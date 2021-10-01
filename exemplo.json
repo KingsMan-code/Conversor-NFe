@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PAULOOOO",
+    "version": "1.0.0",
+    "description": "meu job",
+    "main": "xml_parser.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "RAFAELL",
+    "license": "ISC"
+  }
+]
