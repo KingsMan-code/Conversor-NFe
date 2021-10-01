@@ -9,3 +9,4 @@ para rodar a aplicação insira os seguintes comandos npm :
 
 </br>
  =)
+ by pedro and tetteu
